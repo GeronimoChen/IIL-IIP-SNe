@@ -1,0 +1,4 @@
+# IIL-IIP-SNe
+@(Geronimo Chen)[Python|R|DASH|TNS]
+Well, I do want to classify this two types of supernovae solely based on spectra.
+Based on Daniel Muthukrishna's DASH, I and Stoner are interested in recognizing type IIP and IIL SNe solely via their spectra.
