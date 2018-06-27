@@ -7,8 +7,9 @@ Currently, I choose a Functional Primary Component Analysis algorithm FPCA to st
 ## Current Progress
 I have managed to classify Type IIb and IIP SNe from their functional major components, both SMV and neuro-network reaches a acceptable accuracy. The re-constructed spectra looks faithful to the original data.
 ## To-Do
-More-Data, More-Data, MORE------DATA!!!  
+More-Data, More-Data, MORE------DATA!!! I have tried to download as much as I can.  
 Maybe I need a better pipeline between python and R?  
+I need to properly categorized the data I have acquired.  
 If there is truely something substantial, I will publish it.
 ## Acknowledgements
 Many thanks to Prof. Liu and predecessor Stoner for teaching me python and R language. Moreover, many thanks to Thomas for his generator. In the last, I really appreciate Prof. AG for his guidance.
