@@ -10,7 +10,8 @@ I have managed to classify Type IIb and IIP SNe from their functional major comp
 More-Data, More-Data, MORE------DATA!!! I have tried to download as much as I can.  
 Maybe I need a better pipeline between python and R?  
 I need to properly categorized the data I have acquired.  
-If there is truely something substantial, I will publish it.
+If there is truely something substantial, I will publish it.  
+Well, Microsoft Excel is not an ideal programme for handling with csv files, for it may add something implicitly.
 ## Acknowledgements
 Many thanks to Prof. Liu and predecessor Stoner for teaching me python and R language. Moreover, many thanks to Thomas for his generator. In the last, I really appreciate Prof. AG for his guidance.
 
