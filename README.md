@@ -13,5 +13,5 @@ I need to properly categorized the data I have acquired.
 If there is truely something substantial, I will publish it.  
 Well, Microsoft Excel is not an ideal programme for handling with csv files, for it may add something implicitly.
 ## Acknowledgements
-Many thanks to Prof. Liu and predecessor Stoner for teaching me python and R language. Moreover, many thanks to Thomas for his generator. In the last, I really appreciate Prof. AG for his guidance.
+Many thanks to Prof. Liu Xuewen and predecessor Stoner for teaching me python and R language. Moreover, many thanks to Thomas Russell for his generator. In the last, I really appreciate Prof. Avishay Gal-Yam and Prof. Lifan Wang for the guidance.
 
