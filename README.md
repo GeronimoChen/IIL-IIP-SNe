@@ -11,7 +11,9 @@ More-Data, More-Data, MORE------DATA!!! I have tried to download as much as I ca
 Maybe I need a better pipeline between python and R?  
 I need to properly categorized the data I have acquired.  
 If there is truely something substantial, I will publish it.  
-Well, Microsoft Excel is not an ideal programme for handling with csv files, for it may add something implicitly.
+Well, Microsoft Excel is not an ideal programme for handling with csv files, for it may add something implicitly.  
+## About the Down-Sampling and the Filter
+I am trying to fix this problem by removing these steps, because FPCA works in the data without re-sampling. That will make the whole process more detailed, but may cause extra calculation.  
 ## Acknowledgements
 Many thanks to Prof. Liu Xuewen and predecessor Stoner for teaching me python and R language. Moreover, many thanks to Thomas Russell for his generator. In the last, I really appreciate Prof. Avishay Gal-Yam and Prof. Lifan Wang for the guidance.
 
