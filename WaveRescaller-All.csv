@@ -1,0 +1,12 @@
+Elements,Shortest Wavelength,Longest Wavelength,Shorten
+Halpha,6150,6800,0.001
+Ca,8200,8900,0.001
+Hbeta,4600,4900,0.001
+S,5250,5800,0.001
+FeOMgSi,4900,5250,0.001
+FeMg,4200,4600,0.001
+Na,5800,6150,0.001
+NaMg,7700,8200,0.001
+Gap,7000,7400,0.001
+Visible,4000,7000,0.001
+Expand,4000,9000,0.001

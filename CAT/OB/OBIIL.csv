@@ -1,0 +1,12 @@
+﻿Id,Obj. Name,IAUName,Cross References,RA,DEC,Type,Redshift,HostName,Obj.Program,Public,No. of publicSpectra,Photometry,Remarks,Created By,LastModified,Modified By
+19529,SN2016iot,SN2016iot,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,38:51.2,+39:48:51.73,SN IIL,0.031,,,Y,1,,[TNS Source Group: GaiaAlerts; Reporter/s: GaiaAlerts...],upload-TNS,2016/11/29,upload-TNS
+18291,SN2003hf,SN2003hf,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,50:48.4,+45:24:01.80,SN IIL,0.031,UGC 10586,,Y,3,,,admin-UploadSet,2016/9/8,admin-UploadSet
+13072,SN2014G,SN2014G,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,54:34.1,+54:17:56.90,SN IIL,0.0039,NGC 3448,,Y,19,,,ilanm-UploadSet,2016/8/10,ilanm-UploadSet
+11545,SN1996al,SN1996al,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,33:16.1,-54:05:02.00,SN IIL,0.006571,NGC 7689,,Y,37,,,ilanm-UploadSet,2016/1/24,ilanm-UploadSet
+10031,SN1999ga,SN1999ga,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,36:16.7,-69:33:21.82,SN IIL,0.00489,NGC 2442,,Y,4,,,ilanm-UploadSet,2014/6/19,ilanm-UploadSet
+1536,SN1986E,sn1986E,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,21:41.2,+14:37:55.31,SN IIL,0.003833,NGC4302,SUSPECT,Y,2,,typecite=[Asiago Catalogue] helvel(cz)=[1149] hvelcite=[NED] maxcite=[Asiago Catalogue],upload-suspect,2011/7/21,admin
+1511,SN1959D,sn1959D,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,37:01.8,+34:25:08.40,SN IIL,0.002739,NGC7331,SUSPECT,Y,25,,typecite=[Casebeer et al. 2000] helvel(cz)=[821] hvelcite=[Casebeer et al. 2000] maxcite=[Casebeer et al. 2000],upload-suspect,2011/7/21,admin
+18064,SN1980K,SN1980K,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,35:30.1,+60:06:23.70,SN IIL,0.00287,NGC 6946,,Y,6,,,admin-UploadSet,2016/9/8,admin-UploadSet
+18126,SN1979C,SN1979C,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,22:58.6,+15:47:51.68,SN IIL,0.00455,NGC 4321,,Y,4,,,admin-UploadSet,2016/9/8,admin-UploadSet
+11144,SN2013hj,SN2013hj,Coord. X-Refs »  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,12:06.3,-15:25:45.84,SN IIL,0.0069,,PESSTO,Y,5,,,ilanm-UploadSet,2015/9/24,ilanm-UploadSet
+Due to the data size, only 10 items are given here. 

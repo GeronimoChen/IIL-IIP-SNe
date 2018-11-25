@@ -1,0 +1,12 @@
+﻿Id,Obj. Name,IAUName,Cross References,RA,DEC,Type,Redshift,HostName,Obj.Program,Public,No. of publicSpectra,Photometry,Remarks,Created By,LastModified,Modified By
+21541,SN2018bih,SN2018bih,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,30:43.9,+42:21:44.38,SN IIn,0.044,,,Y,,,"[TNS Source Group: ATLAS; Reporter/s: J. Tonry, B. Stalder...]",upload-TNS,2018/5/10,upload-TNS
+21524,SN2018ctj,SN2018ctj,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,31:15.0,+17:11:35.07,SN IIn,0.0378,,,Y,,,[TNS Source Group: ZTF; Reporter/s: C. Fremling (Caltech...],upload-TNS,2018/6/22,upload-TNS
+21502,SN2018cnv,SN2018cnv,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,49:28.0,-24:23:00.78,SN IIn,0.047,,,Y,1,,"[TNS Source Group: ATLAS; Reporter/s: J. Tonry, B. Stalder...]",upload-TNS,2018/6/16,upload-TNS
+21447,SN2018bwr,SN2018bwr,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,28:26.2,+08:48:22.24,SN IIn,0.046,,,Y,,,"[TNS Source Group: ATLAS; Reporter/s: J. Tonry, B. Stalder...]",upload-TNS,2018/5/23,upload-TNS
+21228,SN2018atq,,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,47:04.1,+19:33:02.88,SN IIn,0.17,,ePESSTO,Y,1,,,nikola-UploadSet,2018/4/22,ofer
+21185,SN2018aqn,,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,33:52.5,-37:43:56.64,SN IIn,0.024,,ePESSTO,Y,1,,,nikola-UploadSet,2018/4/8,nikola-UploadSet
+20815,SN2017jfs,,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,29:37.8,+07:49:35.18,SN IIn,0.008,,ePESSTO,Y,1,,,ilanm-UploadSet,2018/1/6,ilanm-UploadSet
+20696,SN2017ijn,SN2017ijn,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,41:30.9,-11:11:58.16,SN IIn,0.05,,,Y,1,,"[TNS Source Group: ATLAS; Reporter/s: J. Tonry, B. Stalder...]",upload-TNS,2017/11/21,upload-TNS
+20656,SN2017hcd,SN2017hcd,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,42:51.8,+31:28:56.57,SN IIn,0.035,,,Y,1,,"[TNS Source Group: ATLAS; Reporter/s: J. Tonry, B. Stalder...]",upload-TNS,2017/10/6,upload-TNS
+20615,SN2016eei,SN2016eei,Coord.聽X-Refs 禄  ADS  NED  EXTINCTION  SDSS  SIMBAD  DSS  HEASARC  WISE  PTF IPAC  ATEL,04:19.7,-57:35:02.04,SN IIn,0.06,GALEXASC J030419.44-573459.6,ePESSTO,Y,1,,,nikola-UploadSet,2017/11/11,nikola-UploadSet
+Due to the data size, only 10 items are given here. 
