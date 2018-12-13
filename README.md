@@ -17,3 +17,5 @@ I am trying to fix this problem by removing these steps, because FPCA works in t
 ## Acknowledgements
 Many thanks to Prof. Liu Xuewen and predecessor Stoner for teaching me python and R language. Moreover, many thanks to Thomas Russell for his generator. In the last, I really appreciate Prof. Avishay Gal-Yam and Prof. Lifan Wang for the guidance.
 
+# MMP，一个粉都没有，不更新了  
+# MMP, I have no followers, I don't want to upload it!  
